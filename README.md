@@ -1,3 +1,5 @@
+# Predicción de Cancelación de Clientes en Telecom Interconnect
+
 ## 1. Descripción del proyecto
 
 El presente proyecto, para la compañía de telecomunicaciones Interconnect, se centra en una tarea de clasificación para predecir la cancelación de clientes, con el fin de retener a estos clientes a través de ofrecimiento de códigos promocionales y opciones de planes especiales. En general en los negocios resulta más económico retener clientes que atraer nuevos clientes, por lo que este proyecto será de gran valor para la compañía.
